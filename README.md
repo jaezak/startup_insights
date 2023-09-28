@@ -6,7 +6,7 @@ Key Features:
 
 * Valuations: Gain insights into the financial standing of startups, including their funding rounds and valuation trends over the years. Understand how these companies grow and evolve in terms of market value.
 
-.* Founding Dates: Explore the beginnings of startups, learning when they were founded. 
+* Founding Dates: Explore the beginnings of startups, learning when they were founded. 
 
 * Locations: Get a sense of the geographical presence of startups. Understand where innovation hubs are thriving and how different regions contribute to the startup ecosystem.
 
